@@ -1,3 +1,5 @@
+With this component, we are able to insert the name of the audio source/input we want to use.
+
 ## About
 ![](/.doc/img/CREW-logo.png)
 ![](/.doc/img/emil.png)
